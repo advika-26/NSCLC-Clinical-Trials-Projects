@@ -4,9 +4,12 @@ A due-diligence-style investment and risk assessment of the Non-Small Cell Lung 
 
 ## Project Overview
 
-This project analyzes the competitive and risk landscape of NSCLC clinical trials to answer a core business question: **where is development activity concentrated, how does risk change across trial phases, and who are the leading sponsors driving this space?**
+This project analyzes the competitive and risk landscape of NSCLC clinical trials to answer a core business question:
+**where is development activity concentrated, 
+how does risk change across trial phases, and 
+who are the leading sponsors driving this space?**
 
-It's modeled after the kind of due-diligence analysis used in life sciences consulting and venture capital — combining data extraction, business modeling, visualization, and written analysis into a single investment-memo-style deliverable.
+It's modeled after the kind of due-diligence analysis used in life sciences consulting and venture capital combining data extraction, business modeling, visualization, and written analysis into a single investment-memo-style deliverable.
 
 ## Tools & Skills Used
 
