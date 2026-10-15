@@ -1,4 +1,4 @@
-# SQL Analysis — Findings Summary
+# SQL Analysis - Findings Summary
 ## NSCLC Clinical Trials Analysis | Data source: AACT (ClinicalTrials.gov)
 
 ---
@@ -22,7 +22,7 @@
 ### Query 4: Termination Rate by Phase
 **Question**: How does trial risk change as a drug moves through development?
 **Method**: Built two CTEs (total trials per phase, terminated trials per phase), then joined them to calculate a termination rate.
-**Finding**: Termination rate declines steadily by phase — 21.5% (Phase 1) → 18.8% (Early Phase 1) → 16.8% (Phase 1/2) → 12.1% (Phase 2/3) → 11.5% (Phase 2) → 8.1% (Phase 3) → 2% (Phase 4).
+**Finding**: Termination rate declines steadily by phase - 21.5% (Phase 1) → 18.8% (Early Phase 1) → 16.8% (Phase 1/2) → 12.1% (Phase 2/3) → 11.5% (Phase 2) → 8.1% (Phase 3) → 2% (Phase 4).
 **So what**: This is the clearest risk signal in the dataset surviving each phase acts as a filter, so later-phase trials represent lower-risk, more validated drug candidates. This curve directly informs the Probability-of-Success model built in Excel.
 
 ---
