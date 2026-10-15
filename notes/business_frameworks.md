@@ -1,6 +1,6 @@
-# Business Frameworks — NSCLC Investment Analysis
+# Business Frameworks - NSCLC Investment Analysis
 
-## Porter's Five Forces — NSCLC Drug Development Market
+## Porter's Five Forces - NSCLC Drug Development Market
 
 ### 1. Threat of New Entrants: Moderate-Low
 High barriers to entry oncology drug development requires massive capital (PoS model shows only ~5% of Phase 1 oncology candidates reach approval), years of trials, and deep regulatory expertise. Early-phase trials are dominated by academic institutions (NCI, university cancer centers) rather than new commercial entrants commercial entry typically happens through partnership/licensing with academia rather than de novo drug discovery.
@@ -19,7 +19,7 @@ AstraZeneca, Hoffmann-La Roche, and other major pharma companies all maintain fu
 
 ---
 
-## SWOT Analysis — AstraZeneca (NSCLC / Tagrisso)
+## SWOT Analysis - AstraZeneca (NSCLC / Tagrisso)
 
 ### Strengths
 - Full-pipeline presence across NSCLC development phases (62 trials spanning Early Phase 1 through Phase 4) one of only two sponsors with this breadth, alongside Roche
